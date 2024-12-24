@@ -5,6 +5,7 @@ function addnumbers(a,b){
 console.log(addnumbers(2,3));
 
 function subnumbers(a,b){
+    // This line will be executed
     return a-b;
     // This line won't be executed
 }
